@@ -1,0 +1,6 @@
+{
+  "name": "sawah-case-study",
+  "description": "Case study of Sawah, a digital encyclopedia of Egypt: sourced history, a hieroglyph name writer, playable senet and the Egyptian calendar computed live. Next.js 15, TypeScript, Prisma, five languages. Seven thousand years in one place",
+  "topics": ["case-study", "nextjs", "typescript", "prisma", "mysql", "turborepo", "i18n", "rtl", "hieroglyphs", "egypt"],
+  "homepage": "https://sawah-egypt.vercel.app"
+}
